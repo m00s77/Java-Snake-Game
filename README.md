@@ -1,9 +1,12 @@
 # Java Snake Game
 
+![](https://github.com/m00s77/Java-Snake-Game/blob/main/image/print.png)
+
+
 This is a classic snake game that has a lot more that can be done but it has the main idea of the game.
 
-The objective was to play a little bit with paintComponent() (Swing method) and movements through ActionListener. 
+Pause was implemented as also restart when the game is over. 
 
-Of course, there are several other alternatives but that was not the idea.
+The objective was to play a little bit with paintComponent() (Swing) and movements through ActionListener. 
 
 It is a nice game to practice and do a lot more as HighScore, Background images, Sound, Start Menu, etc...   maybe next time!
